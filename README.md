@@ -1,5 +1,5 @@
 # nginx-docker
-docker image for nginx &amp; alpine &amp; proxy_cache_purge
+nginx docker image with alpine & proxy_cache_purge
 
 ## alpine-purge
 Add "ngx_cache_purge" module(v2.5) for official nginx/alpine:1.14 image.
