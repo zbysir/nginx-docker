@@ -4,7 +4,7 @@ FROM alpine:3.9
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
-ENV NGINX_VERSION 1.14.2
+ENV NGINX_VERSION 1.17.9
 
 ENV NGX_CACHE_PURGE_VERSION 2.5
 
